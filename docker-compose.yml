@@ -1,9 +1,0 @@
-# PAPI - Thomas Cook - docker-compose.yml
-#
-# VERSION               0.0.1
-version: '2'
-
-services:
-  php-app-1:
-    build: .
-    container_name: php-app-1
